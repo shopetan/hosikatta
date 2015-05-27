@@ -22,10 +22,10 @@ test:
 
 production:
   <<: *default
-  adpter:postgresql
-  encoding:utf-8
-  database:
-  pool:5432
-  username:
-  password:
+#  adpter:postgresql
+#  encoding:utf-8
+#  database:
+#  pool:5432
+#  username:
+#  password:
 
